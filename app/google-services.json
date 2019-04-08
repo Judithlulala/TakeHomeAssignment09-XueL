@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "216389665089",
+    "firebase_url": "https://carsinfo-90255.firebaseio.com",
+    "project_id": "carsinfo-90255",
+    "storage_bucket": "carsinfo-90255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216389665089:android:fd39d079971067bc",
+        "android_client_info": {
+          "package_name": "com.example.carsinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216389665089-ltnuac7ijkgvhb86hudvlfpdpf7c350f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carsinfo",
+            "certificate_hash": "24aab4eca4a6e2949876930a41748d185b031be2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9U6i2y0vhI-QiE-oyf_R4j6Hh_62c4YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216389665089-jeutuprttsm97o0kkpopc8309ks8pg4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
